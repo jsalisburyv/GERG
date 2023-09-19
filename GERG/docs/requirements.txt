@@ -1,0 +1,30 @@
+Game Engine:
+ - https://www.youtube.com/playlist?list=PLtrSb4XxIVbp8AKuEAlwNXDxr99e3woGE 
+ - https://isetta.io/blogs/week-0/
+ 
+ 
+Game Dev:
+
+RogueLike Game:
+
+Gameplay:
+- Items/Shop
+- Character/Monster/Class
+
+map:
+- Dungeon/map
+- Procedural Generation
+- Serialization
+
+UI:
+- Interaction (Mouse)
+- Graphics (map)
+
+Other:
+- Fov/pathfinding
+- AI NPC
+- RNG
+- Turn-Based
+
+Resources:
+	- help: https://discord.com/channels/205277826788622337/326709120373751808/1024740189500887170

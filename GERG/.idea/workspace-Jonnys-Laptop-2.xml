@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b0542864-f864-4425-ae23-4f9b241fe0ec" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HUmEUkK3yjMJ4KmQe9XzyLN48a" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/OneDrive - Universitat de les Illes Balears/grado/4t/tfg/GERG&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jonny\uib\grado\tfg\GERG\assets\textures" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Run">
+    <configuration name="Debug" type="Application" factoryName="Application">
+      <envs>
+        <env name="DEBUG" value="true" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="core.Application" />
+      <module name="GERG" />
+      <option name="VM_PARAMETERS" value="-javaagent:lib/lwjglx-debug-1.0.0.jar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="core.scenes.*" />
+          <option name="ENABLED" value="false" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run" type="Application" factoryName="Application">
+      <envs>
+        <env name="DEBUG" value="false" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="core.Application" />
+      <module name="GERG" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Debug" />
+      <item itemvalue="Application.Run" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0542864-f864-4425-ae23-4f9b241fe0ec" name="Changes" comment="" />
+      <created>1668347924763</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668347924763</updated>
+      <workItem from="1668347925940" duration="17320000" />
+      <workItem from="1668439954240" duration="352000" />
+      <workItem from="1668443552195" duration="1712000" />
+      <workItem from="1668451413382" duration="6844000" />
+      <workItem from="1668512597101" duration="5726000" />
+      <workItem from="1668525123072" duration="1803000" />
+      <workItem from="1668968156125" duration="135000" />
+      <workItem from="1669028675682" duration="599000" />
+      <workItem from="1669112377351" duration="15000" />
+      <workItem from="1669648036515" duration="1300000" />
+      <workItem from="1669886564093" duration="45000" />
+      <workItem from="1669900432897" duration="99000" />
+      <workItem from="1670320159252" duration="8913000" />
+      <workItem from="1670367547845" duration="3195000" />
+      <workItem from="1670519038775" duration="5478000" />
+      <workItem from="1670527714720" duration="42490000" />
+      <workItem from="1670697897385" duration="13394000" />
+      <workItem from="1670767575907" duration="21180000" />
+      <workItem from="1670837309010" duration="5361000" />
+      <workItem from="1670843500268" duration="5827000" />
+      <workItem from="1670866713698" duration="4811000" />
+      <workItem from="1671026863633" duration="118000" />
+      <workItem from="1671715607780" duration="1361000" />
+      <workItem from="1671746379082" duration="12312000" />
+      <workItem from="1671816111621" duration="8549000" />
+      <workItem from="1671895506273" duration="355000" />
+      <workItem from="1671900005773" duration="7596000" />
+      <workItem from="1672003656492" duration="1624000" />
+      <workItem from="1672014046662" duration="1771000" />
+      <workItem from="1672073256086" duration="1009000" />
+      <workItem from="1672082672155" duration="2091000" />
+      <workItem from="1672339958432" duration="175000" />
+      <workItem from="1675355493938" duration="1207000" />
+      <workItem from="1675377869551" duration="756000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalArgumentException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

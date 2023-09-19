@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="GERG">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../GERG" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../GERG/src" />
+      <root url="file://$PROJECT_DIR$/../GERG/test" />
+    </SOURCES>
+  </library>
+</component>

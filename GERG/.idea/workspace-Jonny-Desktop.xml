@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b0542864-f864-4425-ae23-4f9b241fe0ec" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Demo/assets/textures/empty_heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/assets/textures/enemy_attack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/assets/textures/filled_heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/src/LifeCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/src/MainMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/src/OrthoCamera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/src/characters/Enemy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/src/utils/Pathfinding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/imgui_app_1_86_10_all.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace-Jonnys-Laptop-2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ImGui/GameViewWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ImGui/ImGuiLayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/scenes/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphics/Font.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphics/Framebuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphics/Transformable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphics/render/Camera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphics/render/GameObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphics/render/Sprite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphics/render/tilemap/Tile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphics/render/tilemap/Tilemap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphics/render/tilemap/Tileset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/procgen/bsp/BSPTile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo/TODO" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo/TODO" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo/src/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo/src/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo/src/characters/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo/src/characters/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo/src/map/Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo/src/map/Map.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ant.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/GERG.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/GERG.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/javadoc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/org_netbeans_modules_java_j2seproject_copylibstask.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GERG.iml" beforeDir="false" afterPath="$PROJECT_DIR$/GERG.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/audio/test.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/audio/test.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/shaders/flat_color.glsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/shaders/texture.glsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/textures/chessboard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/textures/dessert.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/textures/isometric.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/textures/super_mario.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/textures/tileset.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/engine.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/docs/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/private/config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/private/private-Denise-Ideapad.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/private/profiler/settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/EngineLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/EngineLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/Input.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/Module.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/Module.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/Window.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/Window.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/WindowModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/config/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/config/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/resources/ResourceManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/resources/ResourceManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/scenes/SceneModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/scenes/SceneModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/graphics/Shader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphics/Shader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/graphics/Texture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphics/Texture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/graphics/Texture2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphics/Texture2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/graphics/render/RenderModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/graphics/render/RenderStates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphics/render/RenderStates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/graphics/render/RenderTarget.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphics/render/RenderTarget.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/graphics/vertex/Vertex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphics/vertex/Vertex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/graphics/vertex/VertexBuffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphics/vertex/VertexBuffer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/procgen/bsp/BSP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/procgen/bsp/BSP.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Demo" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HUmEUkK3yjMJ4KmQe9XzyLN48a" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ToolWindowBuild.ShowToolbar&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/jonny/uib/grado/4t/tfg/Demo/assets/textures&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jonny\uib\grado\4t\tfg\Demo\assets\textures" />
+      <recent name="C:\Users\jonny\uib\grado\4t\tfg\GERG\assets\textures" />
+      <recent name="C:\Users\jonny\uib\grado\tfg\GERG\assets\textures" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jonny\uib\grado\4t\tfg\Demo\assets\textures" />
+      <recent name="C:\Users\jonny\uib\grado\4t\tfg\GERG\lib\ImGui" />
+      <recent name="C:\Users\jonny\uib\grado\4t\tfg\Demo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Run">
+    <configuration name="Debug" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <envs>
+        <env name="DEBUG" value="true" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="Demo" />
+      <module name="Demo" />
+      <option name="VM_PARAMETERS" value="-javaagent:../GERG/lib/lwjglx-debug-1.0.0.jar" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Demo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <envs>
+        <env name="DEBUG" value="false" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="Demo" />
+      <module name="Demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Demo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Run" />
+      <item itemvalue="Application.Debug" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0542864-f864-4425-ae23-4f9b241fe0ec" name="Changes" comment="" />
+      <created>1668347924763</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668347924763</updated>
+      <workItem from="1668347925940" duration="17320000" />
+      <workItem from="1668439954240" duration="352000" />
+      <workItem from="1668443552195" duration="1712000" />
+      <workItem from="1668451413382" duration="6844000" />
+      <workItem from="1668512597101" duration="5726000" />
+      <workItem from="1668525123072" duration="1803000" />
+      <workItem from="1668968156125" duration="135000" />
+      <workItem from="1669028675682" duration="599000" />
+      <workItem from="1669112377351" duration="15000" />
+      <workItem from="1669648036515" duration="1300000" />
+      <workItem from="1669886564093" duration="45000" />
+      <workItem from="1669900432897" duration="99000" />
+      <workItem from="1670320159252" duration="8913000" />
+      <workItem from="1670367547845" duration="3195000" />
+      <workItem from="1670519038775" duration="5478000" />
+      <workItem from="1670527714720" duration="42490000" />
+      <workItem from="1670697897385" duration="13394000" />
+      <workItem from="1670767575907" duration="21180000" />
+      <workItem from="1670837309010" duration="5361000" />
+      <workItem from="1670843500268" duration="5827000" />
+      <workItem from="1670866713698" duration="4811000" />
+      <workItem from="1671026863633" duration="118000" />
+      <workItem from="1671715607780" duration="1361000" />
+      <workItem from="1671746379082" duration="12312000" />
+      <workItem from="1671816111621" duration="8549000" />
+      <workItem from="1671895506273" duration="355000" />
+      <workItem from="1671900005773" duration="7596000" />
+      <workItem from="1672003656492" duration="1624000" />
+      <workItem from="1672014046662" duration="1771000" />
+      <workItem from="1672073256086" duration="1009000" />
+      <workItem from="1672082672155" duration="2091000" />
+      <workItem from="1672339958432" duration="175000" />
+      <workItem from="1675355493938" duration="1207000" />
+      <workItem from="1675426180269" duration="1993000" />
+      <workItem from="1677417022041" duration="100000" />
+      <workItem from="1678190455338" duration="1191000" />
+      <workItem from="1678267509409" duration="605000" />
+      <workItem from="1679402028218" duration="595000" />
+      <workItem from="1679478780571" duration="2718000" />
+      <workItem from="1679504459259" duration="1826000" />
+      <workItem from="1679596665601" duration="1827000" />
+      <workItem from="1679604545788" duration="2552000" />
+      <workItem from="1681641038102" duration="595000" />
+      <workItem from="1681662378879" duration="1787000" />
+      <workItem from="1682002845610" duration="1863000" />
+      <workItem from="1682178201211" duration="594000" />
+      <workItem from="1682194572110" duration="5584000" />
+      <workItem from="1682200804605" duration="20000" />
+      <workItem from="1682201244167" duration="27000" />
+      <workItem from="1682201334215" duration="5544000" />
+      <workItem from="1682272680296" duration="8910000" />
+      <workItem from="1682331629009" duration="4575000" />
+      <workItem from="1682361565760" duration="183000" />
+      <workItem from="1682365853003" duration="1091000" />
+      <workItem from="1682368497913" duration="641000" />
+      <workItem from="1682413858279" duration="4101000" />
+      <workItem from="1682624024759" duration="955000" />
+      <workItem from="1682634730022" duration="1650000" />
+      <workItem from="1683046449335" duration="41548000" />
+      <workItem from="1683280967893" duration="3636000" />
+      <workItem from="1683372158383" duration="24891000" />
+      <workItem from="1683553838925" duration="626000" />
+      <workItem from="1683557255235" duration="42000" />
+      <workItem from="1683557340654" duration="603000" />
+      <workItem from="1683626946148" duration="13238000" />
+      <workItem from="1683706174314" duration="3090000" />
+      <workItem from="1683732220406" duration="107000" />
+      <workItem from="1683733142617" duration="181000" />
+      <workItem from="1683794986430" duration="1244000" />
+      <workItem from="1684135914948" duration="8090000" />
+      <workItem from="1684167390957" duration="14856000" />
+      <workItem from="1684225522556" duration="13546000" />
+      <workItem from="1684256953075" duration="2622000" />
+      <workItem from="1684313321936" duration="13508000" />
+      <workItem from="1684423922949" duration="4085000" />
+      <workItem from="1684762906445" duration="2085000" />
+      <workItem from="1684933511485" duration="2598000" />
+      <workItem from="1684943112331" duration="1893000" />
+      <workItem from="1684960135035" duration="4332000" />
+      <workItem from="1685089041338" duration="6237000" />
+      <workItem from="1685955491577" duration="1242000" />
+      <workItem from="1686061586815" duration="13846000" />
+      <workItem from="1686153491787" duration="10463000" />
+      <workItem from="1686221361992" duration="4128000" />
+      <workItem from="1686303655600" duration="10399000" />
+      <workItem from="1686475654192" duration="9703000" />
+      <workItem from="1686561134155" duration="596000" />
+      <workItem from="1686666883578" duration="37971000" />
+      <workItem from="1686773590657" duration="16599000" />
+      <workItem from="1688026351845" duration="4842000" />
+      <workItem from="1688116552269" duration="2727000" />
+      <workItem from="1688456036288" duration="3336000" />
+      <workItem from="1688548725412" duration="1190000" />
+      <workItem from="1689149610743" duration="1983000" />
+      <workItem from="1689236507440" duration="10407000" />
+      <workItem from="1689580330354" duration="643000" />
+      <workItem from="1689580989973" duration="6930000" />
+      <workItem from="1689604146292" duration="611000" />
+      <workItem from="1689667927758" duration="2447000" />
+      <workItem from="1689698842186" duration="18864000" />
+      <workItem from="1690186938017" duration="9965000" />
+      <workItem from="1690292829750" duration="3681000" />
+      <workItem from="1690361877595" duration="664000" />
+      <workItem from="1690380109527" duration="604000" />
+      <workItem from="1690383925240" duration="1794000" />
+      <workItem from="1690447312464" duration="6043000" />
+      <workItem from="1690528686905" duration="665000" />
+      <workItem from="1690532584553" duration="8475000" />
+      <workItem from="1690791893397" duration="5769000" />
+      <workItem from="1690999713705" duration="1221000" />
+      <workItem from="1691424936296" duration="7147000" />
+      <workItem from="1691603045955" duration="10484000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalArgumentException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="map.tilemap" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
